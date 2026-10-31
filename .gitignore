@@ -3,3 +3,7 @@ node_modules/
 .DS_Store
 Thumbs.db
 *.log
+dist/
+worker/index.js
+.env*
+.dev.vars*

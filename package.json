@@ -1,0 +1,9 @@
+{
+  "name": "bamboobuzz",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/leaderboard.test.mjs tests/leaderboard-ui.test.mjs"
+  }
+}
